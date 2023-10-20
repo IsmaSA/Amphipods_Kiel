@@ -22,7 +22,7 @@ Code created by: <a href="https://www.researchgate.net/profile/Ismael-Soto-4">Is
 ### Data:
 - <code>DATA FOR ISMAEL.xlsx</code>
 
-<img align="left" src="Icons/geomar_logo.jpg" width="280" style="margin-top: 80px">
-<img align="right" src="Icons/Logo_(with_name)_of_University_of_South_Bohemia.svg.png" width="300" style="margin-top: 80px">                                                                                    
-<img align="right" src="Icons/descarga.png" width="300" style="margin-top: 80px">
+<img align="left" src="Icons/geomar_logo.jpg" width="250" style="margin-top: 80px">
+<img align="right" src="Icons/Logo_(with_name)_of_University_of_South_Bohemia.svg.png" width="250" style="margin-top: 80px">                                                                                    
+<img align="right" src="Icons/descarga.png" width="250" style="margin-top: 80px">
 
